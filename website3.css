@@ -1,0 +1,211 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-color: #240b4b;
+    height: 100px;
+     /* has to add position:fixed */
+    
+     }
+.content{
+    display: flex;
+    justify-content: space-evenly;
+    color: white; 
+    
+}
+
+/* #sea{
+    margin-left: 90%;
+    margin-top : -5%;
+    color: white; 
+    font-size: 20px;  
+} */
+
+a{
+    color: white;
+    text-decoration: none;
+    margin-top: 20px;
+    font-size: 20px;
+}
+#hd{
+    margin-top: 17px;
+    /* width: 130px;
+    height: 24px; */
+    font-size: 50px;
+}
+.vid{
+    margin-top: 40px;
+    height: 600px;
+    width: 100%;
+    border: solid 1px;
+   
+}
+#vdo{
+    height:599px;
+    width: 100%; 
+    /* obect fit cover is used to completely 
+    fit */
+    object-fit: cover;
+    z-index: -1;
+}
+.vidcontent{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.para1{
+    margin-top: -350px;
+    letter-spacing: 2px;
+ 
+}
+.btn{
+    height: 50px;
+    width: 120px;
+    color:white;
+    background-color:#4708ad;
+    letter-spacing: 1px;
+   
+}
+.subhead{
+    margin: 100px;  
+}
+.sub{
+    color: #071a3d;
+    font-size: 35px;
+}
+.parent{
+    /* margin: 100px; */
+    border: solid white;
+    height: 650px;
+    width: 100%;
+             
+}
+
+.main1{
+    border: solid 1px blue;
+    width: 55%;
+    height: 600px;
+    margin: 100px;
+    top: -10px;
+    position: relative;
+
+}
+.pic2{
+    position: absolute;
+    border: solid red;
+    width: 50%;
+    height: 400px;
+    top: -405px;
+    background-color: white;
+    /* text-align: center; */
+    
+
+}
+.img1{
+    width: 100%;
+    height: 100%;
+}
+.paragr{
+    margin-left: 40px;
+    margin-top: 30px;
+    color: #071a3d;
+}
+h4{
+    margin-top: 10px;
+    margin-left: 33px;
+    color: rgb(136, 130, 130);
+}
+h3{
+   margin: 40px;
+    color: black;
+}
+p{
+    margin: 40px;
+}
+.atag{
+    color: #033591;
+    margin-left: 40px;
+    margin-top: -30px;
+}
+.pic2{
+    position: relative;
+    border: solid rgb(219, 216, 216) 1px;
+    width: 50%;
+    height: 400px;
+    left: 0px;
+    top: -405px;
+    background-color: white;
+
+}
+main2{
+    border: solid 1px rgb(255, 255, 255);
+    width: 55%;
+    height: 600px;
+    margin: 100px;
+    margin-top: -10px;
+
+}
+/* The last parts.... */
+
+.btn1{
+    margin-left: 50%;
+    margin-top: 20px;
+    height: 50px;
+    width: 120px;
+    color:white;
+    background-color:#4708ad;
+    letter-spacing: 1px;
+    font-size: 100%;
+
+}
+.abtus{
+    width: 100%;
+    height: 500px;
+    border: solid black 1px;
+    margin-top: -40px;
+}
+.abtus2{
+    width: 100%;
+    height: 500px
+}
+.bnm1{
+    color: white;
+    text-align: center;
+    margin-top: -420px;
+    font-size: 350%;
+}
+.row{
+    border: solid 1px white;
+    width: 90%;
+    height: 550px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+       
+}
+.c{
+    border: solid 1px rgb(209, 205, 205);
+    width:30%;
+    height: 550px;  
+   
+}
+
+img{
+    width: 100%;
+    height: 250px;
+}
+.ghj{
+    text-align: center;
+    padding: 5px;
+}
+
+
+
+
+
+
+
+
